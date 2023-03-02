@@ -1,5 +1,5 @@
 # 2D animation 
 
-## One-shot talking face generation
+## One-shot animation
 
 ## video dubbing
